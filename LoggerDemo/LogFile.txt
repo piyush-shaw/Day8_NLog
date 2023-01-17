@@ -1,0 +1,6 @@
+2023-01-12 08:31:15.1568|DEBUG|LoggerDemo.NLog|Debug Successfull : Sum()
+2023-01-12 08:31:15.1696|INFO|LoggerDemo.NLog|Sum method passed, Result5
+2023-01-18 01:29:43.7434|DEBUG|LoggerDemo.NLog|Debug Successfull : Sum()
+2023-01-18 01:29:43.7568|INFO|LoggerDemo.NLog|Sum method passed, Result5
+2023-01-18 01:29:53.5580|DEBUG|LoggerDemo.NLog|Debug Successfull : Sum()
+2023-01-18 01:29:53.5708|INFO|LoggerDemo.NLog|Sum method passed, Result5
